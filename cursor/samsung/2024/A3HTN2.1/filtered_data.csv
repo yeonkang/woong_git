@@ -1,0 +1,2 @@
+line_id,root_lot_id,lot_id,wafer_id,dcop_id,item_id,hold_infor,hold_time,section,prod_mast,pro_id,pro_plan_id,step_id,folder_nan,folder_dat,date_folder
+KFBK,A3HTN2,A3HTN2.1,20,N03SP1HA,P019_ISTBY_96KB_075IWL,PCT=5 (1),2024-04-24-2:45,FINAL,S5E5535A,LN03GAPM,KNNY,NU995000,,,2024

@@ -1,0 +1,2 @@
+process id,root_lot_id,lot_id,wafer_id,expect_yld_effect_value,category,cause_step_seq,cause_factor_type,cause_factor,true_loss/gain,expect_fabout_week,remain wfqty
+KNNY,A3HTN5,A3HTN5.1,8,,,,,PCT=5 (1),,,
